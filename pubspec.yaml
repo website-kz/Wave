@@ -1,0 +1,16 @@
+name: wave
+description: Your own Cubicle messenger.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^1.10.19
+  flutter_svg: ^2.0.7
+  google_fonts: ^6.1.0
+
+flutter:
+  uses-material-design: true
